@@ -8,6 +8,7 @@ Este proyecto es una **API de prueba para gestión de clientes, cuentas y transa
 - C#
 - Visual Studio 2022
 - Sqlite
+- Dapper
 - XUnit + Moq para pruebas unitarias
 - Swagger para documentación de endpoints
 
@@ -44,4 +45,4 @@ Este proyecto es una **API de prueba para gestión de clientes, cuentas y transa
 Se utilizan **XUnit y Moq** para simular los repositorios y probar los handlers:
 
 - compilar el proyecto
-- clic derecho al proyecto de test y seleccionar Ejecutar pruebas
+- clic derecho al proyecto `API.Banco.Tests` y seleccionar Ejecutar pruebas
